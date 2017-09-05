@@ -35,7 +35,7 @@ import PullToRefresh from './components/ptr';
 import InfiniteLoader from './components/infiniteloader';
 import Swiper from './components/swiper';
 import Page from './components/page';
-
+// test....
 export default {
     version,
 
